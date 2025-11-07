@@ -2,7 +2,6 @@
   "name": "yt-transcript-service",
   "version": "1.0.0",
   "description": "Microservice that extracts YouTube captions and returns transcript as JSON.",
-  "type": "module",
   "main": "dist/index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
